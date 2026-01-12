@@ -1,4 +1,4 @@
-# RL Asset Allocation Agent: From Daily Trading to Monthly Rebalancing
+# RL Asset Allocation: From Daily Trading to Monthly Rebalancing
 
 > **"Is it possible to beat benchmark returns while minimizing negative volatility?"**
 
